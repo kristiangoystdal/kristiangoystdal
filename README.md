@@ -1,6 +1,19 @@
-### Hi there, I'm Kristian Gøystdal! 👋
+# Welcome to My GitHub Universe! 🌟
 
-🎓 **Student at NTNU**
+### I'm Kristian Gøystdal – Coding Enthusiast, Tech Explorer, and NTNU Student 👋
+
+🚀 **Passionate about transforming ideas into reality through code** – whether it’s creating immersive games, designing intuitive web interfaces, or building powerful simulations. I’m constantly diving into new technologies, refining my skills, and exploring the endless possibilities that programming offers.
+
+💡 **Curiosity drives me** to continuously learn and grow, and I’m always on the lookout for exciting projects and collaborations.
+
+### 🌟 Featured Projects:
+
+- **[SimulationEdge](https://github.com/kristiangoystdal/SimulationEdge):** A gaming website featuring a collection of games alongside a portfolio of my videos.
+  
+- **[Utveksling_Database](https://github.com/kristiangoystdal/Utveksling_Database):** A website for exchange students that struggles to find courses and want a database of previous students course plans.
+
+
+
 
 ### 🖥️ My Tech Stack:
 
@@ -16,21 +29,26 @@
 </p>
 
 ### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kristiangoystdal&show_icons=true&theme=radical" alt="Kristian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristiangoystdal&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kristiangoystdal&show_icons=true&theme=radical" alt="Kristian's GitHub Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristiangoystdal&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; margin-left: 20px;" />
 </p>
+
 
 ### 📈 Contributions Graph:
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kristiangoystdal&theme=radical" alt="Kristian's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kristiangoystdal&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&theme=radical" alt="Kristian's Activity Graph" />
 </p>
+
+
 
 ### 📫 Let's Connect:
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/kristian-goystdal/)
 - 📧 [Email Me](mailto:krisgoy100@gmail.com)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kristiangoystdal.kristiangoystdal)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kristiangoystdal/count.svg" alt="Visitor Count" />
+</p>
