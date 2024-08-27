@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Kristian Gøystdal! 👋
 
-<!--
-**kristiangoystdal/kristiangoystdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at NTNU**  
+💻 **Passionate about Coding:** I enjoy exploring different programming projects, with a particular interest in web design, game development, and simulations.
 
-Here are some ideas to get you started:
+🌐 **Current Projects:**  
+- **[SimulationEdge](https://github.com/kristiangoystdal/SimulationEdge):** Building simulation tools with Vue.js.
+- **[Utveksling_Database](https://github.com/kristiangoystdal/Utveksling_Database):** Managing exchange student data.
+- **[GamingCentral](https://github.com/kristiangoystdal/GamingCentral):** Game development with ShaderLab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Learning Journey:** Constantly exploring new technologies to expand my skill set.
+
+📊 **GitHub Stats:**  
+![Kristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristiangoystdal&show_icons=true&theme=radical)
+
+📫 **Let's Connect:** Feel free to check out my projects or reach out to collaborate!
