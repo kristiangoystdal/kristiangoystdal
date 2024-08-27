@@ -46,7 +46,7 @@
 
 ### 📫 Let's Connect:
 
-- 💬 [LinkedIn](https://www.linkedin.com/in/kristian-goystdal/)
+- 💬 [LinkedIn]([https://www.linkedin.com/in/kristian-goystdal/](https://www.linkedin.com/in/kristian-g%C3%B8ystdal-4895a6228/))
 - 📧 [Email Me](mailto:krisgoy100@gmail.com)
 
 <p align="center">
