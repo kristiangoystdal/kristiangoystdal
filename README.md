@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristiangoystdal&label=Profile%20views&color=0e75b6&style=flat" alt="kristiangoystdal" /> </p>
 
-- 🔭 I’m currently working on [Utvekslingsportalen](https://github.com/kristiangoystdal/Utveksling_Database)
+- 🔭 I’m currently working on [Audio Watermark Generator](https://github.com/kristiangoystdal/Audio_Watermark_Generator)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kristiangoystdal?tab=repositories](https://github.com/kristiangoystdal?tab=repositories)
 
